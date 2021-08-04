@@ -1,1 +1,2 @@
-new1.js hi new
+new1.js;
+new2.js;
