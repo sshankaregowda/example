@@ -1,1 +1,2 @@
-new1.js
+new1.js;
+new2.js;
